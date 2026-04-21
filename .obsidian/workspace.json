@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29b4deb1c4020fca",
+        "id": "0592031e31368c19",
         "type": "tabs",
         "children": [
           {
-            "id": "af5340984a7874b3",
+            "id": "d1c7c5ca1ae5e463",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "647bdefa44bbbfc4",
+  "active": "d1c7c5ca1ae5e463",
   "lastOpenFiles": [
+    "Java Spring/ResponseEntity.md",
+    "网络/http包.png",
+    "Servlet生命周期.md",
+    "ThreadPool的设计.md",
+    "未命名",
+    "Java Spring/ServletPath.md",
+    "Java Spring/RequestContextHolder.md",
     "Java 基础/反射 getMethod getDeclaredMethod.md",
     "Java Spring/注解继承与 AOP.md",
     "Java Spring/AOP signature与method.md",
@@ -187,7 +194,6 @@
     "Java 基础/uuid 和 雪花算法.md",
     "TODO.md",
     "待/idea yaml 操作.md",
-    "未命名",
     "Java 其他/对称加密与非对称加密.png",
     "待/HTTP 包内容.md",
     "Java 其他/AOP 解决的问题.md",
@@ -202,14 +208,8 @@
     "Java 其他/分表算法类型.md",
     "Mysql/SLEEP 函数.md",
     "Java 并发/等待返回.md",
-    "Mysql/三种变量.md",
     "Java 并发",
-    "Mysql/sql 变量.md",
-    "Mysql/procedure 与 function.md",
-    "Mysql/mysql变量线程安全.md",
-    "Mysql/function的限制.md",
     "Mysql/逐行删除.png",
-    "Mysql/游标时候的锁.md",
     "Java Spring/swagger与knife4j.png",
     "设计模式",
     "OS",
