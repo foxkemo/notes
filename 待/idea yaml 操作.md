@@ -117,52 +117,12 @@ rules[0].tables.t_coupon_template
 
 ---
 
-## ✅ 方法一（最推荐）
+## ✅ 方法一
 
 ### 👉 快捷键：
 
-- Mac：`⌘ + Shift + A`
+- Mac：`⌘ + Shift + alt + C`
     
-- Windows：`Ctrl + Shift + A`
-    
-
-输入：
-
-```
-Copy Reference
-```
-
-👉 会复制：
-
-```text
-rules[0].tables.t_coupon_template
-```
-
----
-
-## ✅ 方法二（右键）
-
-右键 YAML key：
-
-```
-Copy Reference
-```
-
----
-
-## ✅ 方法三（JSON Path 形式）
-
-有些插件支持：
-
-```
-Copy JSON Path
-```
-
-👉 结果类似：
-
-```text
-$.rules[0].tables.t_coupon_template
-```
 
 ---
 
