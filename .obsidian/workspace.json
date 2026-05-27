@@ -11,10 +11,14 @@
             "id": "9043c3470dedbe6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java Spring/代理类的机制 与 this的指向.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "代理类的机制 与 this的指向"
             }
           }
         ]
@@ -179,6 +183,8 @@
   },
   "active": "9043c3470dedbe6e",
   "lastOpenFiles": [
+    "README.md",
+    "Java Spring/代理类的机制 与 this的指向.md",
     "Java Spring/spring 配置优先级.md",
     "leetcode 100/基本数据结构.md",
     "网络/常见异常.md",
@@ -207,8 +213,6 @@
     "Java 并发/Interrupt.md",
     "Java Spring/内部类构造与代理的 冲突.md",
     "Java 并发/Executors.md",
-    "Java 并发/ExecutorService.md",
-    "Java 并发/等待返回.md",
     "Pasted image 20260429112551.png",
     "网络/http包.png",
     "网络",
