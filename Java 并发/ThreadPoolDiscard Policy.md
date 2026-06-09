@@ -1,4 +1,4 @@
-![[截屏0008-05-11 13.25.34.png]]
+![[thread pool discard policy.png]]
 
 
 在 Java 线程池（`ThreadPoolExecutor`）中，**拒绝策略（RejectedExecutionHandler）** 是当线程池处于“饱和状态”时，决定如何处理新提交任务的最后一道防线。
