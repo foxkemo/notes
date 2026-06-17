@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2244bfaf39e86ba2",
+        "id": "7c45efa2ca11e7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "9aa16fc3214f6125",
+            "id": "6996e3887cc71dfb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -177,8 +177,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9aa16fc3214f6125",
+  "active": "6996e3887cc71dfb",
   "lastOpenFiles": [
+    "英文缩写和简单解释.md",
+    "数据库原理-课堂与课后练习汇总.md",
+    "README.md",
     "网络/Filter Interceptor.md",
     "TODO.md",
     "thread pool discard policy.png",
@@ -196,7 +199,6 @@
     "Mysql/limit 是否回表 取决于 select 的 字段？.md",
     "Java Mybatis/深分页问题，以及延迟关联.md",
     "Java Spring/代理类的机制 与 this的指向.md",
-    "README.md",
     "Java Spring/spring 配置优先级.md",
     "网络/常见异常.md",
     "Redis/Redisson watchdog.md",
@@ -206,8 +208,6 @@
     "Linux/将一个命令的输出作为另一个命令的参数.md",
     "日本語/増える　増やす　　ます　へる　減らす.md",
     "leetcode 100",
-    "Java Redis/Java  Redis 操作返回值.md",
-    "Java Spring/配置注解.md",
     "Java 其他/对称加密与非对称加密.png",
     "Pasted image 20260429112551.png",
     "网络/http包.png",
